@@ -35,9 +35,9 @@ I wanted to investigate the relationship between degree centrality and xGChain. 
 
 The scatterplots below show Spain's relationship between degree centrality and xGChain with their finals match against England along with the teams in the rest of the tournament
 
+[Degree Centrality vs xGChain (Spain vs England)](https://linkforce1.github.io/UEFA-2025-Euro-Spain-Women-s-Team-Pass-Network/Degree%20Centrality%20vs%20xGChain%20(Spain%20vs%20England).html)
+<img src="docs/Degree Centrality vs xGChain (Spain vs England).png" alt="Degree Centrality vs xGChain (Spain vs England)" width="700" height="700"/>
 
-<img src="docs/Degree Centrality vs xGChain (Spain vs England).png" alt="Degree Centrality vs xGChain (Spain vs England)" width="600"/>
-
-
-<img src="docs/Degree Centrality vs xGChain - All Matches.png" alt="Degree Centrality vs xGChain - All Matches" width="600"/>
+[Degree Centrality vs xGChain - Spain (Euros 2025)](https://linkforce1.github.io/UEFA-2025-Euro-Spain-Women-s-Team-Pass-Network/Degree%20Centrality%20vs%20xGChain%20-%20Spain%20(Euros%202025).html)
+<img src="docs/Degree Centrality vs xGChain - All Matches.png" alt="Degree Centrality vs xGChain - All Matches" width="800" height = "800"/>
 
